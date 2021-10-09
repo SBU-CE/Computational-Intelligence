@@ -9,7 +9,7 @@ Computational Intelligence
 ### This repository includes TA classes for computational Intelligence course held in Fall 1400.
 
 ### Course Instructor
-- Prof. Hamed Malek
+- **Prof. Hamed Malek**
 
 ### Teacher Assistants
 - [Azin Azarkar](https://github.com/azinazarkar)
