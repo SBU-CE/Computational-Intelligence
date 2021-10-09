@@ -1,4 +1,4 @@
-### Some FAQ that might happen for students.
+### FAQ that maybe what you are looking for.
 
 |Issue   | Click   |
 |:-:|:-:|
