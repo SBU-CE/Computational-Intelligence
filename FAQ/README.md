@@ -2,6 +2,6 @@
 
 |Issue   | Click   |
 |:-:|:-:|
-| Google Colab  | Click Here  |
-| Jupyter Notebook | Click Here  |
-| Kaggle Notebook| Click Here |
+| Google Colab  | [Click Here](googleColab.md)  |
+| Jupyter Notebook | [Click Here](jupyter.md)  |
+| Kaggle Notebook| [Click Here](kaggle.md) |
